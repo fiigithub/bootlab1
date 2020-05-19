@@ -9,9 +9,8 @@
 				"vm-wdgt-dev-2",
 				"vm-wdgt-dev-3",
 				"vm-wdgt-dev-4"
-			]",
-			
-		},
+			]
+	},
 		"webVmSize": {
 			"type": "string",
 			"defaultValue": "Standard_B1s"
